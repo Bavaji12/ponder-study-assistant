@@ -1,3 +1,4 @@
+Live Link: https://ponder-study-assistant-lpb4ixuid-bavaji12.vercel.app/
 # Ponder — Study Assistant
 
 Ponder is a React study assistant for the Flam frontend internship assignment. A learner pastes notes or names a topic, and the app uses a server-side Gemini request to return validated flashcard data. The result becomes a small study workflow rather than a chat transcript:
